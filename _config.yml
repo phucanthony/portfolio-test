@@ -1,5 +1,15 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Phuc Anthony </p>
+logo: /assets/img/avatar.png
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/phuc-anthony/">LinkedIn</a> |
+  <a href="https://github.com/phucanthony">GitHub</a>
+
+  <br>
+  I'm a software engineer for over 5 years
+  Using multiple technologies such as ReactJS, React Native, NodeJS, MongoDB, GraphQL, ...
+  Working in <a href="https://turing.com">Turing.com</a> for 6 months.
+  <br>
+  </p>
 theme: jekyll-theme-hacker
